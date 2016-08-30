@@ -10,6 +10,6 @@ _This is a simple homepage built for a mock community site for expats in the Riv
 
 ## Technologies Used
 
-_HTML with Bootstrap CSS along with a custom stylesheet for the navigation bar._
+_HTML with Bootstrap CSS along with a custom stylesheet to control padding and max-width_
 
 Copyright (c) 2016 **_Kevin Mizway_**
